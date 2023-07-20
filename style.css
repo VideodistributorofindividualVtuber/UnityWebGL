@@ -1,1 +1,10 @@
 @charset "UTF-8";
+body{
+    background-color: aquamarine;
+}
+.heder{
+    text-align: center;
+}
+.Copy{
+    text-align: right;
+}
